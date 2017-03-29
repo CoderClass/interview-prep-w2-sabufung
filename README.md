@@ -11,10 +11,15 @@ What you will submit:
 
 **Big O Notation**
 
-- [ ] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
-  - I have learned that...
-- [ ] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
-  - I have learned that...
+- [x] Watch [Big O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw)(8m)
+  - 4 Big rule of Big O:
+   + Drop no dominate phrase
+   + Drop constants
+   + Big O of diffrent step is Big O of total step
+   + Different input => Different variable 
+- [x] Read [Big O Notation in plain English](http://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation) and write down what you learned from it
+  - Optimization without a justified cause should deserve that name as well. (BIG Oh!!!)
+  - How to calculate/ approximate Big(O)
 - [ ] Visit http://bigocheatsheet.com/ and think about how useful it could be to you
   - This sheet makes more sense to me now /OR/ This sheet does not make sense to me.
 - [ ] Watch LogN in 5m: https://www.youtube.com/watch?v=kjDR1NBB9MU
@@ -32,7 +37,7 @@ Extras:
 **Coding**
 
 - [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
-- [ ] Finish at least 2 tasks on Exercism
+- [x] Finish at least 2 tasks on Exercism
 
 ### Optional tasks
 
